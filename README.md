@@ -5,5 +5,6 @@ Gloals
 2.	Try to use other data sets
 3.	Use AWS personalize service
 4.	KNN clustering
+5.  Different algirothms
 
 S3 Bucket: recommedationforecast
