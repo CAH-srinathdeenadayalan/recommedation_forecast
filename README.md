@@ -6,3 +6,4 @@ Gloals
 3.	Use AWS personalize service
 4.	KNN clustering
 
+S3 Bucket: recommedationforecast
